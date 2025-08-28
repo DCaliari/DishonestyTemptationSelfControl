@@ -10,3 +10,4 @@ The folder "Ztree_code" contains the ztree code of the experiment.
 
 The files 48QB6.pdf and 48QB6-Scoring-Psychometrics.pdf contain details about the personality traits questionnaire and the resulting variables.
 
+MATLAB version: 2021b or later.
